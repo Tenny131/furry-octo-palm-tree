@@ -1,0 +1,38 @@
+=====================================
+Book "inv" by Tenny131
+(content hash = D4786C21286B3FBCE2EBC87E2B0C5C8A9F2A0EB61738955A35DB47A5717EC7AD)
+Found 1x minecraft:written_book in slot 1  
+
+--- Page 0 ---
+postgenericinv
+=====================================
+Book "topdown" by Tenny131
+(content hash = 19F6113F6EC8B444A1146D7FEADD81195DA2C645FC4582C3F4D13444031B9DCC)
+Found 8x minecraft:written_book in slot 3  
+
+--- Page 0 ---
+qwer
+--- Page 1 ---
+top
+--- Page 2 ---
+down
+=====================================
+Book "asdf" by Tenny131
+(content hash = 0765234378EFB2E0023C8CC6F2AAC87CC4E7FCDDC973BEFD1A0B096F037A6CC1)
+Found 1x minecraft:written_book in slot 0  
+
+--- Page 0 ---
+weqwer
+--- Page 1 ---
+adsf
+--- Page 2 ---
+asdf
+--- Page 3 ---
+asdf
+=====================================
+Book "post" by Tenny131
+(content hash = AF8159FAB6836C9A97AD76820E4DE2CC1025DDC231D2184757C3DDB97FA9EE9D)
+Found 1x minecraft:written_book in slot 4  
+
+--- Page 0 ---
+postgeneric
