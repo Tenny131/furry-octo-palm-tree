@@ -1,6 +1,7 @@
 HOW TO USE:
 
-open reader.exe to get the file 
-open website with file in same directory
+open read.exe to get the file
+open sort.exe to sort and convert the file
+open index.html
 
 now you have nice gui to look at your file
